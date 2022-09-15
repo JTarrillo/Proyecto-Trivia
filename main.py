@@ -2,6 +2,8 @@ import os
 import time
 import random
 
+#falta el readme
+
 #Se esta usando tuplas por que la cantidad de preguntas y respuestas es fija
 #Las tuplas tambien tienen mejor facilidad de acceso
 #Las preguntas tendran niveles de dificultad?
